@@ -1,4 +1,4 @@
-// VERSION 1 COMPLETE
+// VERSION 1 & 2 COMPLETE
 
 var todos = ['item 1', 'item 2', 'item 3'];
 
@@ -25,7 +25,7 @@ function deleteTodo(position) {
 	displayTodos();
 }
 
-// VERSION 2 COMPLETE
+// VERSION 3 COMPLETE
 
 // It should store the todos array on an objects
 var todoList = {
@@ -55,3 +55,5 @@ var todoList = {
     this.displayTodos();
   }
 };
+
+// VERSION 4
